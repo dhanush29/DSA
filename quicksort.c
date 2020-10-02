@@ -1,5 +1,6 @@
 /*This is also known as Hoare's partition scheme*/
 /*author @ManiNandadeep*/
+//this is fastest sorting algorithm has complexity o(nlogn)
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
